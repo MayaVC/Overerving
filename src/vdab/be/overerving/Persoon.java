@@ -2,6 +2,7 @@ package vdab.be.overerving;
 
 public class Persoon {
     private String naam;
+
     private String voornaam;
     private Adres adres;
 
